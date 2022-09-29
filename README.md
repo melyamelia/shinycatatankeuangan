@@ -1,5 +1,6 @@
 # Catatan Keuangan Shiny
 Kelompok 7 :
+Mata Kuliah Topik Khusus
 - Dhiffa Fatihah Umami
 - Mely Amelia
 - Rahmat Qodri
@@ -8,4 +9,3 @@ Kelompok 7 :
 - Grashella Clara Nesa Br Ginting
 - Umar Faruqi
 
-Pencatatan keuangan shiny app adalah aplikasi shiny yang dapat digunakan untuk melakukan pencatatan keuangan harian user dan melakukan report bulanan.
