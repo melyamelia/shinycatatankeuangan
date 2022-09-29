@@ -1,6 +1,5 @@
 # Catatan Keuangan Shiny
 Kelompok 7 :
-Mata Kuliah Topik Khusus
 - Dhiffa Fatihah Umami
 - Mely Amelia
 - Rahmat Qodri
