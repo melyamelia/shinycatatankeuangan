@@ -25,12 +25,6 @@ server <- function(input, output, session) {
                                  col = character())
     return (list(data_pengeluaran, data_budget, warna_bar, warna_kategori))
   }
-  #Sistem tanggal
-  get_date_system_choices <- function() {
-    date_system_choices <- c("1900")
-    names(date_system_choices) <- c("1900 (Windows)")
-    return(date_system_choices)
-  }
   
   ##################################### Buat Grafik ##########################################
   # data = data.table yang isinya kolom tanggal, kategori, bulan, tahun, and nominal
