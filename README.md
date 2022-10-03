@@ -16,3 +16,6 @@ Aplikasi Catat Cuan ini memiliki 3 fitur :
 1. Riwayat Pengeluaran
 2. Pengeluaran terbaru
 3. Budget
+
+## Shinyapps.io
+Untuk implementasi secara online dapat dilihat pada [catatcuan](https://mlyamelia.shinyapps.io/catatcuan/)
