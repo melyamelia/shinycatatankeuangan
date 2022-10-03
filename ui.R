@@ -5,7 +5,7 @@ library(shinydashboard)
 
 # UI for Shiny Budget App
 ui <- dashboardPage(
-    skin = "green",
+    skin = "yellow",
     dashboardHeader(title = "Catat Cuan"),
     
     dashboardSidebar(
