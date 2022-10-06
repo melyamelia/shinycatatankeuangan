@@ -22,5 +22,10 @@ Fitur ini digunakan untuk menambahkan catatan pengeluaran terbaru dengan mengisi
 ### 3. Budget
 Fitur budget merupakan fitur yang dapat digunakan untuk mempermudah kita dalam mengatur keuangan. Pada fitur ini bisa ditambahkan budget bulanan yang akan digunakan per kategori yang diinginkan. Fitur ini juga akan menampilkan sisa budget bulanan yang dimiliki yang secara otomatis akan berkurang apabila ada pengeluaran yang dimasukkan.
 
+## Batasan Aplikasi
+Sampai saat ini terdapat beberapa fitur yang belum tersedia dalam Aplikasi Catat Cuan sehingga masih perlu dikembangkan, yaitu :
+- Sistem Login
+- Pengimpanan Data User
+
 ## Shinyapps.io
 Untuk implementasi secara online dapat dilihat pada [catatcuan](https://mlyamelia.shinyapps.io/catatcuan/)
