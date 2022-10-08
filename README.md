@@ -25,7 +25,7 @@ Fitur budget merupakan fitur yang dapat digunakan untuk mempermudah kita dalam m
 ## Batasan Aplikasi
 Sampai saat ini terdapat beberapa fitur yang belum tersedia dalam Aplikasi Catat Cuan sehingga masih perlu dikembangkan, yaitu :
 - Sistem Login
-- Pengimpanan Data User
+- Penyimpanan Data User
 
 ## Shinyapps.io
 Untuk implementasi secara online dapat dilihat pada [catatcuan](https://mlyamelia.shinyapps.io/catatcuan/)
